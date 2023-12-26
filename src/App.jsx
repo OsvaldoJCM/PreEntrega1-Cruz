@@ -2,7 +2,7 @@ import React from 'react'
 import ItemListContainer from './componentes/ItemListContainer/ItemListContainer'
 import ItemCount from './componentes/ItemCount/ItemCount'
 import Vista from './componentes/Vista/Vista'
-import Navbar from './componentes/NavBar/NavBar'
+import Navbar from './componentes/Navbar/Navbar'
 const App = () => {
   return (
     <>
